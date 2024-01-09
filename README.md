@@ -1,4 +1,6 @@
 # CGRA 2021/2022
+2021/2022 - 2nd Year, 2nd Semester
+Course: Computação Gráfica (CGRA) | Computer Graphics
 
 ## Group T07G09
 | Name             | Number    | E-Mail             |
