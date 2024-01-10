@@ -1,6 +1,6 @@
 # CGRA 2021/2022
 2021/2022 - 2nd Year, 2nd Semester
-Course: Computação Gráfica [(CGRA)](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419996) | Computer Graphics
+Course: Computação Gráfica ([CGRA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419996)) | Computer Graphics
 
 ## Group T07G09
 | Name             | Number    | E-Mail             |
